@@ -29,7 +29,7 @@ export const Blog = <Icon icon="ph:link-bold" />;
 
 //Bloc A Propos
 export const moreInfo =
-  "Je suis un Développeur passsionné par la découverte et l'apprentissage de nouvelles technologie . Ce qui me motive au quotidien c'est de pouvoir matérialisé les différentes idées innovantes par l'intermédiaire de code d'une application ou d'un site web.";
+  "Je suis un Développeur passsionné par la découverte et l'apprentissage de nouvelles technologies . Ce qui me motive au quotidien c'est de pouvoir matérialisé les différentes idées innovantes par l'intermédiaire de code d'une application ou d'un site web.";
 
 //Skills
 
