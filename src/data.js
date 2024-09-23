@@ -29,7 +29,7 @@ export const Blog = <Icon icon="ph:link-bold" />;
 
 //Bloc A Propos
 export const moreInfo =
-  "Je suis un Développeur passsionné par la découverte et l'apprentissage de nouvelles technologies . Ce qui me motive au quotidien c'est de pouvoir matérialisé les différentes idées innovantes par l'intermédiaire de code d'une application ou d'un site web.";
+  "Je suis un Développeur passsionné par la découverte et l'apprentissage de nouvelles technologies . Ce qui me motive au quotidien c'est de pouvoir matérialiser les différentes idées innovantes par l'intermédiaire de code, d'une application ou d'un site web.";
 
 //Skills
 
@@ -102,7 +102,7 @@ export const skillData = [
 ];
 
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-export const resume = "https://drive.google.com/file/d/19KLSQMABPmZWrtsR5L1vueT8baoIbDnN/view?usp=drive_link"; 
+export const resume = "https://drive.google.com/file/d/19m_McamSaIAH8x7wbArq2scLSv8jxC8V/view?usp=sharing"; 
 
 /* Projects
  ************************************************************** 
